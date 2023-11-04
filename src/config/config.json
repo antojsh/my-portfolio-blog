@@ -1,25 +1,25 @@
 {
   "site": {
-    "title": "EV0 ",
+    "title": "Antonio Sierra",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logo": "https://s3.amazonaws.com/gndx.dev/ev0-astro-logo.png",
-    "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
-    "pageSize": 6
+    "logo": "https://avatars.githubusercontent.com/u/9664111?v=4",
+    "lang": "es",
+    "description": "Soy un desarrollador fullstack con amplia experiencia en Javascript. En el ámbito del frontend, he trabajado con Angular, Ionic, React, Next.js y Astro, lo que me ha permitido abordar proyectos desde diferentes enfoques. Poseo un conocimiento avanzado en CSS/SASS para asegurar una experiencia de usuario excepcional.",
+    "pageSize": 9
   },
   "features": {
     "youtube": true,
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Antonio Sierra @antojsh",
+    "meta_description": "Soy un desarrollador fullstack con amplia experiencia en Javascript. En el ámbito del frontend, he trabajado con Angular, Ionic, React, Next.js y Astro, lo que me ha permitido abordar proyectos desde diferentes enfoques. Poseo un conocimiento avanzado en CSS/SASS para asegurar una experiencia de usuario excepcional."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
+    "name": "Antonio Sierra @antojsh",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "bio": "Soy un desarrollador fullstack con amplia experiencia en Javascript. En el ámbito del frontend, he trabajado con Angular, Ionic, React, Next.js y Astro, lo que me ha permitido abordar proyectos desde diferentes enfoques. Poseo un conocimiento avanzado en CSS/SASS para asegurar una experiencia de usuario excepcional."
   }
 }
